@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# packrat
+packrat/lib*/
+packrat/src/
+
+## MacOS source files
+*.DS_Store
