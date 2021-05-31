@@ -10,8 +10,6 @@ More information can be found in our article:
 [Alfons, A., Ates, N.Y., & Groenen, P.J.F. (2021). A Robust Bootstrap Test for
 Mediation Analysis. *Organizational Research Methods*. DOI 10.1177/1094428121999096.](https://doi.org/10.1177/1094428121999096)
 
-Please note that Figure 1 of the published manuscript contains a mistake that was somehow introduced by the copyeditors of the journal. Moreover, they made this change after we submitted corrections to the author proofs of the article, and did not provide us new proofs to correct this additional mistake. This repository contains our original figure as submitted (without the mistake), as well as the code to produce it.
-
 
 ## Reproduce results
 
