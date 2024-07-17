@@ -13,7 +13,7 @@ Alfons, A., Ates, N.Y., & Groenen, P.J.F. (2022). A Robust Bootstrap Test for Me
 ## Reproduce results
 
 This repository provides a collection of [R](https://CRAN.R-project.org/) 
-scripts to reproduce all examples, simulations and figures in our manuscript 
+scripts to reproduce all examples, simulations, and figures in our article 
 and the supplementary report.  
 
 The easiest way to reproduce the results is to clone this repository with 
